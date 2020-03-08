@@ -1,3 +1,4 @@
+# https://github.com/ArN5/zumi_samples/blob/master/zumi_speed_calibration.ipynb
 #this code was made for the original zumi field v1
 #the field was a grid spaced 43 cm every node.
 
